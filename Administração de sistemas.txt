@@ -1,0 +1,7 @@
+AULA 16/04/18
+
+fcp -> SAI NO TESTE, VER O QUE É
+
+/as * #exportar diretoria para toda a gente sem grandes preocupações
+
+ver o que faz o comando mount
